@@ -1,0 +1,2 @@
+1 - creating new project
+2- creating firestore Database (test - name: clips)
